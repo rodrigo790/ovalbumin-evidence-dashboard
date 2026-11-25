@@ -1,0 +1,42 @@
+{
+  "ova.fasta": {
+    "url": "https://rest.uniprot.org/uniprotkb/P01012.fasta",
+    "sha256": "14ca6c7db2c4e15ae6781014a183228cf2f30266c7e2e87a6890f834da2bc67c",
+    "bytes": 473,
+    "observed_date": "2026-11-25"
+  },
+  "assays.csv": {
+    "url": "https://query-api.iedb.org/bcell_search",
+    "sha256": "82ab10bf253d8edc7e3c3f43150a496603203f3a654fe469e316b1559397d40c",
+    "bytes": 95418,
+    "observed_date": "2026-11-25",
+    "note": "Parent source P01012, linear peptide, PMIDs 34818647, 17236828 and 14600204"
+  },
+  "bibliography.json": {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+    "sha256": "7fb1a2fb928a3415e32eaf4feb707051caa2dace843410fb3fea88e8cb5002e7",
+    "bytes": 680,
+    "observed_date": "2026-11-25"
+  },
+  "region_scores.csv": {
+    "url": "https://tools.iedb.org/bcell/",
+    "sha256": "debdb47a14e3ef50eca6c0b13bf032a9128082a327a859aeef6eb2a39f3ec20d",
+    "bytes": 23481,
+    "observed_date": "2026-11-25",
+    "note": "BepiPred 2.0, Parker and Emini on UniProt P01012 via the IEDB Analysis Resource"
+  },
+  "residues.csv": {
+    "url": "https://alphafold.ebi.ac.uk/entry/P01012",
+    "sha256": "6baea87613c01ad06ede237c5c17bf10cbbfe3b5fbd3702d6fdb527fe24cdd51",
+    "bytes": 14660,
+    "observed_date": "2026-11-25",
+    "note": "Derived from a C-alpha fit of AF-P01012-F1 v6 and RCSB 1OVA chain C"
+  },
+  "structure.html": {
+    "url": "https://www.rcsb.org/structure/1OVA",
+    "sha256": "8db426c50f16afe786f62cb8a9c5151b1655f3302a21bc55d38d4899bd17f976",
+    "bytes": 490023,
+    "observed_date": "2026-11-25",
+    "note": "Derived from AlphaFold AF-P01012-F1 v6 and RCSB 1OVA chain C"
+  }
+}

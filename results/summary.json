@@ -1,0 +1,18 @@
+{
+  "antigen": "Gallus gallus ovalbumin",
+  "uniprot": "P01012",
+  "sequence_length": 386,
+  "assay_records": 703,
+  "studies": 3,
+  "mapped_crystal_residues": 373,
+  "prediction_tracks": [
+    "BepiPred-2.0_percentile",
+    "Parker_percentile",
+    "Emini_percentile"
+  ],
+  "experimental_outcomes": {
+    "Negative": 544,
+    "Positive": 127,
+    "Positive-Low": 32
+  }
+}
